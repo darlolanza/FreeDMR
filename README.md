@@ -2,6 +2,6 @@
 
 FreeDMR Peer Server - software to assist in building a peer mesh network
 
-Please see the wiki for documentation:
+** FreeDMR has moved. Please update your references:
 
-https://github.com/hacknix/FreeDMR/wiki
+https://gitlab.hacknix.net/hacknix/FreeDMR
